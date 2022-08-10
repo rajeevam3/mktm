@@ -1,6 +1,6 @@
 {
   "homepage": "http://mktm.io/",
-  "name": "mktmio",
+  "name": "mktm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
