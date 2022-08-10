@@ -8,7 +8,7 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>@2022 BNGLR Studios.</p>
+        <p>@2022 Mankutimma Studios Prv Ltd.</p>
         {/* <p>Bengaluru, Karnataka India <br /> All Rights Reserved</p> */}
       </div>
       {/* <div className="gpt3__footer-links_div">
@@ -28,12 +28,12 @@ const Footer = () => (
         <h4>Get in touch</h4>
         {/* <p>Crechterwoord K12 182 DK Alknjkcb</p> */}
         <p>+91-8105646516</p>
-        <p>gm@bnglr.io</p>
+        <p>gm@mktm.io</p>
       </div>
     </div>
 
     {/* <div className="gpt3__footer-copyright">
-      <p>@2022 BNGLR Studios.</p>
+      <p>@2022 MKTM Studios.</p>
     </div> */}
   </div>
 );

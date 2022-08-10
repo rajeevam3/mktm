@@ -10,9 +10,9 @@ const App = () => (
   <div className="App">
     <Helmet>
       <meta charSet="utf-8" />
-      <title>BNGLR</title>
-      <link rel="canonical" href="http://bnglr.io" />
-      <meta name="description" content="BNGLR application" />
+      <title>MKTM</title>
+      <link rel="canonical" href="http://mktm.io" />
+      <meta name="description" content="MKTM application" />
     </Helmet>
     <div className="gradient__bg">
       <Navbar />
