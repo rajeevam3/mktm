@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rajeevam3.github.io/mktm/public/",
+  "homepage": "./public/",
   "name": "mktm",
   "version": "0.1.0",
   "private": true,
